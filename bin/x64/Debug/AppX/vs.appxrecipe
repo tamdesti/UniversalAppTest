@@ -9,26 +9,26 @@
     <SolutionConfiguration>Debug|x64</SolutionConfiguration>
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>9a5a58cc-8a79-4ca2-ae09-222eadd7e2cd</PackageIdentityName>
-    <IntermediateOutputPath>E:\Windows-universal-samples-master\Samples\Calendar\cs\obj\x64\Debug\</IntermediateOutputPath>
-    <RegisteredManifestChecksum>9CFF339C665B5165F173D98FDE34C30C3651C3EDAE16F4DC7361DD4183BE837E</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>Microsoft.SDKSamples.Calendar.CS_1.0.0.0_x64__8wekyb3d8bbwe</RegisteredPackageMoniker>
-    <RegisteredUserModeAppID>Microsoft.SDKSamples.Calendar.CS_8wekyb3d8bbwe!Calendar.App</RegisteredUserModeAppID>
-    <RegisteredPackageID>Microsoft.SDKSamples.Calendar.CS</RegisteredPackageID>
-    <RegisteredPackagePublisher>CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US</RegisteredPackagePublisher>
-    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <IntermediateOutputPath>E:\Win 10\Windows-universal-samples\Samples\Calendar\cs\obj\x64\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>16DD7FC005931E4C02A24A76F5C10F40B6285DA842EE204A2AE3E5F6E33DCB4D</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>6966RyuBi.UniversalAppTest_1.1.0.0_x64__qvt87xs1njvpr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>6966RyuBi.UniversalAppTest_qvt87xs1njvpr!Calendar.App</RegisteredUserModeAppID>
+    <RegisteredPackageID>6966RyuBi.UniversalAppTest</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=5B74EAB1-0BF4-45CE-AEFA-7CB35C180578</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="E:\Windows-universal-samples-master\Samples\Calendar\cs\bin\x64\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="E:\Win 10\Windows-universal-samples\Samples\Calendar\cs\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-03-10T09:40:34.974</Modified>
+      <Modified>2016-03-17T08:51:11.023</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="E:\Windows-universal-samples-master\Samples\Calendar\cs\bin\x64\Debug\Calendar.exe">
+    <AppxPackagedFile Include="E:\Win 10\Windows-universal-samples\Samples\Calendar\cs\bin\x64\Debug\Calendar.exe">
       <PackagePath>entrypoint\Calendar.exe</PackagePath>
-      <Modified>2016-03-10T09:40:32.934</Modified>
+      <Modified>2016-03-17T08:51:04.784</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\longp\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -442,43 +442,43 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2015-08-03T08:43:24.513</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Windows-universal-samples-master\SharedContent\cs\Default.rd.xml">
+    <AppxPackagedFile Include="E:\Win 10\Windows-universal-samples\SharedContent\cs\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2016-02-03T09:47:42.000</Modified>
+      <Modified>2016-03-08T02:37:11.043</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Windows-universal-samples-master\SharedContent\media\microsoft-sdk.png">
+    <AppxPackagedFile Include="E:\Win 10\Windows-universal-samples\SharedContent\media\microsoft-sdk.png">
       <PackagePath>Assets\microsoft-sdk.png</PackagePath>
-      <Modified>2016-02-03T09:47:42.000</Modified>
+      <Modified>2016-03-08T02:37:11.991</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Windows-universal-samples-master\SharedContent\media\smalltile-sdk.png">
+    <AppxPackagedFile Include="E:\Win 10\Windows-universal-samples\SharedContent\media\smalltile-sdk.png">
       <PackagePath>Assets\smallTile-sdk.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-02-03T09:47:42.000</Modified>
+      <Modified>2016-03-08T02:37:11.993</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Windows-universal-samples-master\SharedContent\media\splash-sdk.png">
+    <AppxPackagedFile Include="E:\Win 10\Windows-universal-samples\SharedContent\media\splash-sdk.png">
       <PackagePath>Assets\splash-sdk.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-02-03T09:47:42.000</Modified>
+      <Modified>2016-03-08T02:37:12.012</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Windows-universal-samples-master\SharedContent\media\squaretile-sdk.png">
+    <AppxPackagedFile Include="E:\Win 10\Windows-universal-samples\SharedContent\media\squaretile-sdk.png">
       <PackagePath>Assets\squareTile-sdk.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-02-03T09:47:42.000</Modified>
+      <Modified>2016-03-08T02:37:12.013</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Windows-universal-samples-master\SharedContent\media\storelogo-sdk.png">
+    <AppxPackagedFile Include="E:\Win 10\Windows-universal-samples\SharedContent\media\storelogo-sdk.png">
       <PackagePath>Assets\storeLogo-sdk.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-02-03T09:47:42.000</Modified>
+      <Modified>2016-03-08T02:37:12.014</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Windows-universal-samples-master\SharedContent\media\tile-sdk.png">
+    <AppxPackagedFile Include="E:\Win 10\Windows-universal-samples\SharedContent\media\tile-sdk.png">
       <PackagePath>Assets\tile-sdk.png</PackagePath>
-      <Modified>2016-02-03T09:47:42.000</Modified>
+      <Modified>2016-03-08T02:37:12.014</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Windows-universal-samples-master\SharedContent\media\windows-sdk.png">
+    <AppxPackagedFile Include="E:\Win 10\Windows-universal-samples\SharedContent\media\windows-sdk.png">
       <PackagePath>Assets\windows-sdk.png</PackagePath>
-      <Modified>2016-02-03T09:47:42.000</Modified>
+      <Modified>2016-03-08T02:37:12.015</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Windows-universal-samples-master\Samples\Calendar\cs\bin\x64\Debug\Calendar.xr.xml">
+    <AppxPackagedFile Include="E:\Win 10\Windows-universal-samples\Samples\Calendar\cs\bin\x64\Debug\Calendar.xr.xml">
       <PackagePath>Calendar.xr.xml</PackagePath>
       <Modified>2016-03-10T09:13:42.126</Modified>
     </AppxPackagedFile>
@@ -486,13 +486,13 @@
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2016-03-09T06:26:11.312</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Windows-universal-samples-master\Samples\Calendar\cs\bin\x64\Debug\resources.pri">
+    <AppxPackagedFile Include="E:\Win 10\Windows-universal-samples\Samples\Calendar\cs\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-03-10T09:40:34.455</Modified>
+      <Modified>2016-03-17T08:51:09.722</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Windows-universal-samples-master\Samples\Calendar\cs\bin\x64\Debug\Core\Calendar.exe">
+    <AppxPackagedFile Include="E:\Win 10\Windows-universal-samples\Samples\Calendar\cs\bin\x64\Debug\Core\Calendar.exe">
       <PackagePath>Calendar.exe</PackagePath>
-      <Modified>2016-03-10T09:40:34.972</Modified>
+      <Modified>2016-03-17T08:51:11.019</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

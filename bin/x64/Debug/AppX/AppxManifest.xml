@@ -7,11 +7,11 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="Microsoft.SDKSamples.Calendar.CS" Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US" Version="1.0.0.0" ProcessorArchitecture="x64" />
+  <Identity Name="6966RyuBi.UniversalAppTest" Publisher="CN=5B74EAB1-0BF4-45CE-AEFA-7CB35C180578" Version="1.1.0.0" ProcessorArchitecture="x64" />
   <mp:PhoneIdentity PhoneProductId="9a5a58cc-8a79-4ca2-ae09-222eadd7e2cd" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
-    <DisplayName>Calendar C# Sample</DisplayName>
-    <PublisherDisplayName>Microsoft Corporation</PublisherDisplayName>
+    <DisplayName>UniversalAppTest</DisplayName>
+    <PublisherDisplayName>RyuBi</PublisherDisplayName>
     <Logo>Assets\StoreLogo-sdk.png</Logo>
   </Properties>
   <Dependencies>

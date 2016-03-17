@@ -9,16 +9,16 @@
     <SolutionConfiguration>Debug|x64</SolutionConfiguration>
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>9a5a58cc-8a79-4ca2-ae09-222eadd7e2cd</PackageIdentityName>
-    <IntermediateOutputPath>E:\Windows-universal-samples-master\Samples\Calendar\cs\obj\x64\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>E:\Win 10\Windows-universal-samples\Samples\Calendar\cs\obj\x64\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="E:\Windows-universal-samples-master\Samples\Calendar\cs\bin\x64\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="E:\Win 10\Windows-universal-samples\Samples\Calendar\cs\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="E:\Windows-universal-samples-master\Samples\Calendar\cs\bin\x64\Debug\Calendar.exe">
+    <AppxPackagedFile Include="E:\Win 10\Windows-universal-samples\Samples\Calendar\cs\bin\x64\Debug\Calendar.exe">
       <PackagePath>entrypoint\Calendar.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\longp\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
@@ -330,44 +330,44 @@
     <AppxPackagedFile Include="C:\Users\longp\.nuget\packages\System.Xml.XmlSerializer\4.0.10\lib\netcore50\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Windows-universal-samples-master\SharedContent\cs\Default.rd.xml">
+    <AppxPackagedFile Include="E:\Win 10\Windows-universal-samples\SharedContent\cs\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Windows-universal-samples-master\SharedContent\media\microsoft-sdk.png">
+    <AppxPackagedFile Include="E:\Win 10\Windows-universal-samples\SharedContent\media\microsoft-sdk.png">
       <PackagePath>Assets\microsoft-sdk.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Windows-universal-samples-master\SharedContent\media\smalltile-sdk.png">
+    <AppxPackagedFile Include="E:\Win 10\Windows-universal-samples\SharedContent\media\smalltile-sdk.png">
       <PackagePath>Assets\smallTile-sdk.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Windows-universal-samples-master\SharedContent\media\splash-sdk.png">
+    <AppxPackagedFile Include="E:\Win 10\Windows-universal-samples\SharedContent\media\splash-sdk.png">
       <PackagePath>Assets\splash-sdk.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Windows-universal-samples-master\SharedContent\media\squaretile-sdk.png">
+    <AppxPackagedFile Include="E:\Win 10\Windows-universal-samples\SharedContent\media\squaretile-sdk.png">
       <PackagePath>Assets\squareTile-sdk.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Windows-universal-samples-master\SharedContent\media\storelogo-sdk.png">
+    <AppxPackagedFile Include="E:\Win 10\Windows-universal-samples\SharedContent\media\storelogo-sdk.png">
       <PackagePath>Assets\storeLogo-sdk.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Windows-universal-samples-master\SharedContent\media\tile-sdk.png">
+    <AppxPackagedFile Include="E:\Win 10\Windows-universal-samples\SharedContent\media\tile-sdk.png">
       <PackagePath>Assets\tile-sdk.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Windows-universal-samples-master\SharedContent\media\windows-sdk.png">
+    <AppxPackagedFile Include="E:\Win 10\Windows-universal-samples\SharedContent\media\windows-sdk.png">
       <PackagePath>Assets\windows-sdk.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Windows-universal-samples-master\Samples\Calendar\cs\bin\x64\Debug\Calendar.xr.xml">
+    <AppxPackagedFile Include="E:\Win 10\Windows-universal-samples\Samples\Calendar\cs\bin\x64\Debug\Calendar.xr.xml">
       <PackagePath>Calendar.xr.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Windows-universal-samples-master\Samples\Calendar\cs\bin\x64\Debug\resources.pri">
+    <AppxPackagedFile Include="E:\Win 10\Windows-universal-samples\Samples\Calendar\cs\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Windows-universal-samples-master\Samples\Calendar\cs\bin\x64\Debug\Core\Calendar.exe">
+    <AppxPackagedFile Include="E:\Win 10\Windows-universal-samples\Samples\Calendar\cs\bin\x64\Debug\Core\Calendar.exe">
       <PackagePath>Calendar.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

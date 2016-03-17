@@ -134,6 +134,7 @@ namespace SDKTemplate
             int[] am;
             am = tv.Solar2Lunar(tv.getDay(), tv.getMonth(), tv.getYear());
             String canChi = tv.CanChi(am[0], am[1], am[2], am[3]);
+            tv.setDate(day, month, am[2]);
             return ("Ngày " + am[0].ToString() + " Tháng " + am[1].ToString() + " Năm " + tv.yearLunar() + " (ÂL)");
         }
         public int TinhCung(int day, int month, int year, bool isMale)

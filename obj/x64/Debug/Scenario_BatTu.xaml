@@ -1,0 +1,32 @@
+﻿<Page x:ConnectionId='1'
+    x:Class="SDKTemplate.Scenario_BatTu"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SDKTemplate"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <ScrollViewer Margin="12,10,12,12">
+            <StackPanel>
+                <TextBlock Style="{StaticResource ScenarioDescriptionTextStyle}" TextWrapping="Wrap">
+                </TextBlock>
+                <TextBlock HorizontalAlignment="Center">Ngay sinh cua chong:</TextBlock>
+                <DatePicker x:ConnectionId='2' x:Name="dtNamsinhChong" HorizontalAlignment="Center"/>
+                <TextBlock x:ConnectionId='3' x:Name="lbCungChong" HorizontalAlignment="Center"></TextBlock>
+                <TextBlock HorizontalAlignment="Center">Ngay sinh cua vo:</TextBlock>
+                <DatePicker x:ConnectionId='4' x:Name="dtNamsinhVo" HorizontalAlignment="Center"/>
+                <TextBlock x:ConnectionId='5' x:Name="lbCungVo" HorizontalAlignment="Center"></TextBlock>
+                <Button x:ConnectionId='6' Content="Show results" Margin="0,10,0,0"                              HorizontalAlignment="Center"/>
+                <TextBlock x:ConnectionId='7' x:Name="tb1" Foreground="Red" HorizontalAlignment="Center" FontSize="32" TextWrapping="Wrap" Style="{StaticResource BasicTextStyle}" Margin="0,10,0,0">Diễn giải</TextBlock>
+                <TextBlock x:ConnectionId='8' x:Name="richTextBox1" TextWrapping="Wrap" Style="{StaticResource BasicTextStyle}" Margin="0,10,0,0"></TextBlock>
+                <TextBlock x:ConnectionId='9' x:Name="tb2" Foreground="Red" HorizontalAlignment="Center" FontSize="32" TextWrapping="Wrap" Style="{StaticResource BasicTextStyle}" Margin="0,10,0,0"/>
+                <TextBlock x:ConnectionId='10' x:Name="tb3" TextWrapping="Wrap" Style="{StaticResource BasicTextStyle}" Margin="0,10,0,0"/>
+                <TextBlock x:ConnectionId='11' x:Name="tb4" Foreground="Red" HorizontalAlignment="Center" FontSize="32" TextWrapping="Wrap" Style="{StaticResource BasicTextStyle}" Margin="0,10,0,0"/>
+                <TextBlock x:ConnectionId='12' x:Name="tb5" TextWrapping="Wrap" Style="{StaticResource BasicTextStyle}" Margin="0,10,0,0"/>
+            </StackPanel>
+        </ScrollViewer>
+        </Grid>
+</Page>
+
