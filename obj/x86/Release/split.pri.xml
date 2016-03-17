@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="6966RyuBi.UniversalAppTest" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://6966RyuBi.UniversalAppTest/Files/App.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Calendar.xr.xml" uri="ms-resource://6966RyuBi.UniversalAppTest/Files/Calendar.xr.xml">
+				<Candidate type="Path">
+					<Value>Calendar.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://6966RyuBi.UniversalAppTest/Files/MainPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Scenario1_Data.xbf" uri="ms-resource://6966RyuBi.UniversalAppTest/Files/Scenario1_Data.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Scenario2_Stats.xbf" uri="ms-resource://6966RyuBi.UniversalAppTest/Files/Scenario2_Stats.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Scenario3_Enum.xbf" uri="ms-resource://6966RyuBi.UniversalAppTest/Files/Scenario3_Enum.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Scenario4_UnicodeExtensions.xbf" uri="ms-resource://6966RyuBi.UniversalAppTest/Files/Scenario4_UnicodeExtensions.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Scenario5_TimeZone.xbf" uri="ms-resource://6966RyuBi.UniversalAppTest/Files/Scenario5_TimeZone.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Scenario_BatTu.xbf" uri="ms-resource://6966RyuBi.UniversalAppTest/Files/Scenario_BatTu.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="microsoft-sdk.png" uri="ms-resource://6966RyuBi.UniversalAppTest/Files/Assets/microsoft-sdk.png">
+					<Candidate type="Path">
+						<Value>Assets\microsoft-sdk.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="smallTile-sdk.png" uri="ms-resource://6966RyuBi.UniversalAppTest/Files/Assets/smallTile-sdk.png">
+					<Candidate type="Path">
+						<Value>Assets\smallTile-sdk.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="splash-sdk.png" uri="ms-resource://6966RyuBi.UniversalAppTest/Files/Assets/splash-sdk.png">
+					<Candidate type="Path">
+						<Value>Assets\splash-sdk.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="squareTile-sdk.png" uri="ms-resource://6966RyuBi.UniversalAppTest/Files/Assets/squareTile-sdk.png">
+					<Candidate type="Path">
+						<Value>Assets\squareTile-sdk.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="storeLogo-sdk.png" uri="ms-resource://6966RyuBi.UniversalAppTest/Files/Assets/storeLogo-sdk.png">
+					<Candidate type="Path">
+						<Value>Assets\storeLogo-sdk.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="tile-sdk.png" uri="ms-resource://6966RyuBi.UniversalAppTest/Files/Assets/tile-sdk.png">
+					<Candidate type="Path">
+						<Value>Assets\tile-sdk.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="windows-sdk.png" uri="ms-resource://6966RyuBi.UniversalAppTest/Files/Assets/windows-sdk.png">
+					<Candidate type="Path">
+						<Value>Assets\windows-sdk.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Properties">
+				<NamedResource name="Default.rd.xml" uri="ms-resource://6966RyuBi.UniversalAppTest/Files/Properties/Default.rd.xml">
+					<Candidate type="Path">
+						<Value>Properties\Default.rd.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Styles">
+				<NamedResource name="Styles.xbf" uri="ms-resource://6966RyuBi.UniversalAppTest/Files/Styles/Styles.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinMetadata">
+				<NamedResource name="Windows.winmd" uri="ms-resource://6966RyuBi.UniversalAppTest/Files/WinMetadata/Windows.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Windows.winmd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

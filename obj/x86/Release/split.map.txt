@@ -1,0 +1,15 @@
+﻿[ResourceMetadata]
+"ResourceDimensions"		"language-en-us"
+
+[Files]
+"E:\Windows-universal-samples-master\Samples\Calendar\cs\obj\x86\Release\split.pri"			"resources.pri"
+"E:\Windows-universal-samples-master\Samples\Calendar\cs\obj\x86\Release\PackageLayout\WinMetadata\Windows.winmd"			"WinMetadata\Windows.winmd"
+"E:\Windows-universal-samples-master\Samples\Calendar\cs\obj\x86\Release\PackageLayout\Properties\Default.rd.xml"			"Properties\Default.rd.xml"
+"E:\Windows-universal-samples-master\Samples\Calendar\cs\obj\x86\Release\PackageLayout\Calendar.xr.xml"			"Calendar.xr.xml"
+"E:\Windows-universal-samples-master\Samples\Calendar\cs\obj\x86\Release\PackageLayout\Assets\windows-sdk.png"			"Assets\windows-sdk.png"
+"E:\Windows-universal-samples-master\Samples\Calendar\cs\obj\x86\Release\PackageLayout\Assets\tile-sdk.png"			"Assets\tile-sdk.png"
+"E:\Windows-universal-samples-master\Samples\Calendar\cs\obj\x86\Release\PackageLayout\Assets\storeLogo-sdk.png"			"Assets\storeLogo-sdk.png"
+"E:\Windows-universal-samples-master\Samples\Calendar\cs\obj\x86\Release\PackageLayout\Assets\squareTile-sdk.png"			"Assets\squareTile-sdk.png"
+"E:\Windows-universal-samples-master\Samples\Calendar\cs\obj\x86\Release\PackageLayout\Assets\splash-sdk.png"			"Assets\splash-sdk.png"
+"E:\Windows-universal-samples-master\Samples\Calendar\cs\obj\x86\Release\PackageLayout\Assets\smallTile-sdk.png"			"Assets\smallTile-sdk.png"
+"E:\Windows-universal-samples-master\Samples\Calendar\cs\obj\x86\Release\PackageLayout\Assets\microsoft-sdk.png"			"Assets\microsoft-sdk.png"

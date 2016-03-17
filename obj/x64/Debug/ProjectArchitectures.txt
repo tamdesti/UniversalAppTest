@@ -1,0 +1,1 @@
+E:\Windows-universal-samples-master\Samples\Calendar\cs\Calendar.csproj;x64
